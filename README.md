@@ -1,0 +1,2 @@
+# EasyTarget
+É uma plataforma web que facilita os meios de comunicação social, visando aumentar os clientes, concentrando em um único sistema, um mecanismo capaz de criar anúncios nas redes sociais, com agendamento e postagens formatadas, no Facebook e no Instagram. Fornecendo templates de exemplos de postagens e  tutoriais caso o cliente possua dificuldades com as redes sociais utilizadas no nosso sistema. Promovendo a empresa nas redes sociais, tornando-a mais visível a novos clientes. Público alvo:  Micro e pequenas empresas da comunidade.
